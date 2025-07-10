@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environments
+env/
+venv/
+.calorie-env/
+.calorie-env/
+calorie-env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Ignore dataset or large files (optional)
+*.csv
+*.xlsx
+*.h5
+*.pkl
+*.zip
+
+# Node modules (if you use any JS)
+node_modules/
+
+# Other
+*.env
